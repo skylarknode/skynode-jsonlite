@@ -1,0 +1,14 @@
+{
+    "name": "skynode-jsonlite",
+    "description": "A database system based json files,support tablesapce.",
+    "version": "0.9.0",
+    "scripts": {
+    },
+    "main": "./lib/index",
+    "dependencies": {
+        "lowdb": "^1.0.0",
+        "pluralize": "^7.0.0",
+        "shortid": "^2.2.8",
+        "underscore-db": "^0.12.2"
+    }
+}
